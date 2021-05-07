@@ -4,7 +4,7 @@ Application that fetches data from the OMDb API and displays in a list. On tappi
 # Coding process
 1. Created moviestore.swift file to access the OMDb api.
 
-2. Pass in stateobject stores in moviesappapp.swift.
+2. Pass in stateobject stores in MoviesApp.swift.
 
 3. In contentview take in theapi call from moviestore.swift to show the titles of the films.
 
